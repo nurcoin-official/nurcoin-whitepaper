@@ -16,3 +16,6 @@ For inquiries, please contact **support@nurcoin.ai** or visit [nurcoin.ai](https
 
 ## ℹ️ About NURCOIN®  
 NURCOIN® is a blockchain-based financial ecosystem that ensures secure digital transactions, investment growth, and philanthropy via decentralized finance (DeFi).  
+
+## 🛠 Contributions & Support  
+Found an issue or have a suggestion? [Open an issue](https://github.com/nurcoin-official/nurcoin-whitepaper/issues) or contact us.
