@@ -13,3 +13,6 @@ For more information, please contact **NURCOIN® legal address**.
 
 ## 📞 Contact  
 For inquiries, please contact **support@nurcoin.ai** or visit [nurcoin.ai](https://nurcoin.ai)
+
+## ℹ️ About NURCOIN®  
+NURCOIN® is a blockchain-based financial ecosystem that ensures secure digital transactions, investment growth, and philanthropy via decentralized finance (DeFi).  
