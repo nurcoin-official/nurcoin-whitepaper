@@ -10,3 +10,6 @@ The official **NURCOIN® Whitepaper** provides an in-depth look at our vision, t
 On **March 5, 2026**, NURCOIN® was assigned an official **Legal Entity Identifier (LEI)** in **LEI Worldwide**.  
 
 For more information, please contact **NURCOIN® legal address**.
+
+## 📞 Contact  
+For inquiries, please contact **support@nurcoin.ai** or visit [nurcoin.ai](https://nurcoin.ai)
